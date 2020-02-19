@@ -1,0 +1,2 @@
+This project is a 3D implementation of a simple chess game using c++.
+This repo has dependency on glut and OpenGL
